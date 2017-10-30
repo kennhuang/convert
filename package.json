@@ -1,0 +1,21 @@
+{
+    "author": "huang.guanmin@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "convert",
+    "pebble": {
+        "displayName": "Convert",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "1568d99f-940d-4703-acb9-b22dbab995d3",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
